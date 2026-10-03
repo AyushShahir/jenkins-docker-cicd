@@ -149,6 +149,23 @@ http://localhost:8000
 
 GitHub webhook trigger test.
 
+## Automatic CI Trigger
+
+A GitHub webhook is configured to trigger the Jenkins pipeline whenever changes are pushed to the `main` branch.
+
+GitHub → Webhook → Jenkins → Build → Test → Deploy
+
+## Automatic CI Trigger with GitHub Webhook
+
+To automatically trigger the Jenkins pipeline whenever changes are pushed to the GitHub repository, a GitHub webhook was configured.
+
+Since Jenkins was running locally on `localhost:8080`, **Cloudflare Tunnel (`cloudflared`)** was used to temporarily expose the local Jenkins server to the internet.
+
+### Cloudflare Tunnel
+
+The tunnel was started using:
+cloudflared tunnel --url http://localhost:8080
+
 ## Screenshots
 
 ### Jenkins Pipeline
