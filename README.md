@@ -36,6 +36,7 @@ The application is a simple Python HTTP server running on port 8000.
 When accessed through the browser, it displays:
 
 Hello from Jenkins + Docker!
+```
 
 ## CI/CD Pipeline
 
