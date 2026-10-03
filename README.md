@@ -38,6 +38,7 @@ When accessed through the browser, it displays:
 Hello from Jenkins + Docker!
 ```
 
+
 ## CI/CD Pipeline
 
 The Jenkins pipeline contains three stages:
