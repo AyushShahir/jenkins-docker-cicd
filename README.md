@@ -109,3 +109,11 @@ Docker container deployment
 Pipeline result:
 
 Finished: SUCCESS
+
+## SCREENSHOTS
+<img width="1408" height="881" alt="Screenshot 2026-10-03 at 4 24 02 PM" src="https://github.com/user-attachments/assets/1ae95b9d-fc9b-4c0d-a247-a0ef43751394" />
+<img width="1408" height="881" alt="Screenshot 2026-10-03 at 4 23 34 PM" src="https://github.com/user-attachments/assets/3968c3d0-65d3-45bd-b712-b8ec5646a72f" />
+<img width="1408" height="881" alt="Screenshot 2026-10-03 at 4 22 38 PM" src="https://github.com/user-attachments/assets/ba431231-3b01-4c4e-8997-ad5f53ae6942" />
+<img width="1408" height="881" alt="Screenshot 2026-10-03 at 4 05 12 PM" src="https://github.com/user-attachments/assets/577692d2-9c73-4f15-8293-b2680835a7ec" />
+
+
