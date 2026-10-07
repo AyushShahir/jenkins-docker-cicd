@@ -1,7 +1,7 @@
 
-# Jenkins + Docker CI/CD Pipeline
+# 🚀 Jenkins + Docker CI/CD Pipeline
 
-## Overview
+## 🎯 Overview
 
 This project demonstrates a simple CI/CD pipeline using Jenkins and Docker.
 
@@ -11,7 +11,7 @@ The pipeline automatically:
 2. Runs unit tests
 3. Deploys the application as a Docker container
 
-## Technologies Used
+## ⚒️ Technologies Used
 
 - Jenkins
 - Docker
@@ -32,7 +32,7 @@ jenkins-docker-cicd/
 └── README.md
 ````
 
-## Application
+## 📱 Application
 
 The application is a simple Python HTTP server running on port `8000`.
 
@@ -42,7 +42,7 @@ When accessed through the browser, it displays:
 Hello from Jenkins + Docker!
 ```
 
-## CI/CD Pipeline
+## 🟣 CI/CD Pipeline
 
 The Jenkins pipeline contains three stages:
 
@@ -120,7 +120,7 @@ Jenkins was run using Docker and configured to access the Docker Engine through 
 
 The Jenkins pipeline was configured using **Pipeline script from SCM** with the GitHub repository and `Jenkinsfile`.
 
-## Result
+## ⭐️ Result
 
 The Jenkins pipeline successfully completed:
 
